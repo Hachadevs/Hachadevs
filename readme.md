@@ -1,4 +1,4 @@
-# **DISCORD DEV.**
+# 😄 **My info**
 
 ```js
 console.log("Hey! I am Hacha!");
@@ -15,3 +15,10 @@ echo "I am an Discord developer i create bots in Discord.JS v12";
 - [ ] Finish my BOT.
 - [ ] Finish my FiveM Server.
 - [X] Make a cake.
+
+# NaQ (No asked questions)
+
+- Discord BOTS? What library do you use?
+> Discord.JS v12 - v13.
+
+No more
