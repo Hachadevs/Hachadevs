@@ -1,15 +1,15 @@
-## 😄 **Bienvenido a mi perfil.**
+## 😄 **Welcome to my profile.**
 
 ```js
-console.log("Hey! Soy Hacha.");
+console.log("Hey! I am Hacha.");
 ```
 ```php
-echo "Soy un programador de bots de Discord usando la libreria Discord.JS v12 (No quiero cambiarme a v13 jajaja)";
+echo "I am a programmer (beginner) from Chile! Im making a bot in Discord JS v12 (I don't want to change to v12 haha)";
 ```
 ```html
-<h1>Dueño de el bot de discord "Halley"</h1>
+<h1>Owner of Discord bot "Halley"</h1>
 ```
 
 ## 📒 Things to do:
-- [ ] Terminar mi bot.
-- [X] Hacer un pastel.
+- [ ] Finish my BOT.
+- [X] Make a cake.
